@@ -12,4 +12,4 @@ The workshop starts with a short presentation, and the rest of the time is hands
 
 * [Part 2](part-2.md): Kubernetes in Docker Enterprise Edition [75 minutes]
 
-* [Part 3](part-2.md): The Secure Software Supply Chain with Kubernetes and Docker EE [45 minutes]
+* [Part 3](part-3.md): The Secure Software Supply Chain with Kubernetes and Docker EE [45 minutes]
